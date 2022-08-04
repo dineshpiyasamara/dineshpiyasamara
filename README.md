@@ -29,6 +29,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cG9seWdvbiBmaWxsPSIjZmZhMDAwIiBwb2ludHM9IjE2LDM5LjYwOSAyMyw0My42MDkgMjMsNCAxNiw4Ij48L3BvbHlnb24+PHBvbHlnb24gZmlsbD0iI2ZmYTAwMCIgcG9pbnRzPSIyMywxMi40MzMgNiwyMi4yNSA2LDEzLjc1IDIzLDMuOTMzIj48L3BvbHlnb24+PHBvbHlnb24gZmlsbD0iI2ZmYjMwMCIgcG9pbnRzPSIzMiwzOS42MDkgMjUsNDMuNjA5IDI1LDQgMzIsOCI+PC9wb2x5Z29uPjxwb2x5Z29uIGZpbGw9IiNmZmIzMDAiIHBvaW50cz0iMjUsMTIuNDMzIDQyLDIyLjI1IDQyLDEzLjc1IDI1LDMuOTMzIj48L3BvbHlnb24+PHBvbHlnb24gZmlsbD0iI2ZmYjMwMCIgcG9pbnRzPSIyOSwxOS43MzIgMjksMjcuMzY1IDM2LDMxLjQwNyAzNiwyMy43NzUiPjwvcG9seWdvbj48L3N2Zz4="/></a>
 
 
 
