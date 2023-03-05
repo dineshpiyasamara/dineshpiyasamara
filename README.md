@@ -1,5 +1,3 @@
-<h2 align="center">I'm trying to figure out the pre-trained model that works in my brain</h2>
-
 <br/>
 
 ## Connect with me:
